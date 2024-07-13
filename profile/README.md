@@ -11,7 +11,7 @@ However, we're only accepting pull requests from M269 students,
 to help them practice software development skills and
 build a portfolio of open source contributions.
 
-## License
-The text in this repository is
+## Licence
+This text is
 Copyright © 2023 by The Open University, UK, and licensed under a
 [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by/4.0).
